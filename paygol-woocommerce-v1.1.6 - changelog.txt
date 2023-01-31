@@ -1,0 +1,11 @@
+Cambios en la version del plugin woocommerce
+
+Editor: Roberto Pani
+
+Se especifican los errores, ya no sale el mismo mensaje para distintos errores.
+
+Se apunta correctamente Ambientes de Produccion y Desarrollo.
+
+Se limpia de codigos de pruebas y mensajes con testigos.
+
+Ultima actualizacion 10-01-2023 11:40:00
